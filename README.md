@@ -9,5 +9,6 @@
 
 ![image](https://user-images.githubusercontent.com/76697212/113530675-6ef50700-957b-11eb-9079-91cf8b35f6e9.png)
 
-Original starter code was provided by Xandromus (https://github.com/coding-boot-camp/friendly-parakeet)
-Here is URL to the completed website https://shilohjones194.github.io/Challenge3PasswordGenerator/
+## Original starter code was provided by Xandromus (https://github.com/coding-boot-camp/friendly-parakeet)
+
+# Here is URL to the completed website https://shilohjones194.github.io/Challenge3PasswordGenerator/
