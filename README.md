@@ -1,6 +1,6 @@
-#Password Generator!
+# **Password Generator!**
 
-###This button contains the follow:
+### This button contains the follow:
 
 1. 8-128 characters
    * No more, No less
